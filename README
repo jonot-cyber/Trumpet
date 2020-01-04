@@ -1,0 +1,5 @@
+# Trumpet
+## What is trumpet?
+Trumpet is a resource pack editor for _Minecraft Java Edition_, for the server [Cepi](https://www.youtube.com/watch?v=mhyFDbSE7jU)
+The name was inspired by the Trumpet item on this server
+The project is built in Electron because the creator, LeoDog896, will break out in hives if he uses any language that isn't javascript
